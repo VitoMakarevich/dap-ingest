@@ -1,3 +1,5 @@
+# Purpose
+Data generator for [dap-hudi](https://github.com/VitoMakarevich/dap-hudi)
 # About
 Simple data generator to simulate CDC records. Creates 1000 UUIDs and then
 ingests 5000 records and waits for 1 sec, works as an indefinite loop.
